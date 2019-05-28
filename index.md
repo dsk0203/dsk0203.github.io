@@ -6,6 +6,9 @@
 [Warehouse Item Mapping based on User-Made Priority](/sample_page)
 <br><br><img src="images/project2e.jpg?raw=true"/>
 
+[Re-route a Parking Garage to Cut Down on Traffic in a Main Garage on Campus](/sample_page)
+<br><br><img src="images/project3e.jpg?raw=true"/>
+
 
 
 ### Category Name 2
