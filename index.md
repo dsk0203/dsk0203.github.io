@@ -5,9 +5,10 @@
 
 [Warehouse Item Mapping based on User-Made Priority](/sample_page)
 <br><br><img src="images/project2e.jpg?raw=true"/>
----
 
-/### Category Name 2
+
+
+### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
