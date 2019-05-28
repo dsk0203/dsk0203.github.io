@@ -3,7 +3,7 @@
 ### Early Work 
 
 [Financial Portfolio Tracking Application](/sample_page)
-<br><br><img src="images/project1.jpg?raw=true"/>
+<br><br><img src="images/project1e.jpg?raw=true"/>
 
 ---
 
