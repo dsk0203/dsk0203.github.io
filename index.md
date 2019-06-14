@@ -6,7 +6,7 @@
 
 
 [Does Coke and Pepsi Stock-Price have Any Correlation?](/sample_page)
-<br><br><img src="images/project2e.jpg?raw=true"/>
+<br><br><img src="images/Coke Pictures.jpg?raw=true"/>
 
 
 ### Statistics
@@ -21,7 +21,7 @@
 
 
 [Who's the greatest player of all time, MJ or LBJ?](/sample_page)
-<br><br><img src="images/project2e.jpg?raw=true"/>
+<br><br><img src="images/basketball.png?raw=true"/>
 
 
 ### Machine Learning
@@ -29,7 +29,7 @@
 
 
 [Using Machine Learning to detect Credit Card Fraud](http://example.com/)
-<br><br><img src="images/project2e.jpg?raw=true"/>
+<br><br><img src="images/credit card fraud.jpg?raw=true"/>
 
 
 
