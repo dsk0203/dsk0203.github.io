@@ -30,14 +30,3 @@
 
 [Using Machine Learning to detect Credit Card Fraud](http://example.com/)
 <br><br><img src="images/credit card fraud.jpg?raw=true"/>
-
-
-
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
