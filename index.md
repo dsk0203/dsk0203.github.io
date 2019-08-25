@@ -1,35 +1,47 @@
-# Coding Projects
+# Key Projects
+[MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20using%20TF%202.0%20(Deep%20Learning).ipynb)
 
-
-[Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
-
-[Binary Predictors in Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Binary%20Predictors%20in%20logistic%20regression.ipynb)
-
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Predicting Used Car Price with Linear Regression  (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Predict%20the%20price%20of%20a%20used%20car%20based%20on%20specifications%20(outliers%2C%20multicollinearity%2C%20dummy%20variables)%20LOG%20LINEAR%20REGRESSION%20.ipynb)
 
 [Classifying Returning Customers With Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
 
-[Heatmaps (Seaborn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Clustermap%20(Hier%20Clus).ipynb)
+[Market Segmentation with KMeans (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Market%20Segmentation%20Using%20KMeans.ipynb)
+
+#### Data Cleaning/Preproccessing
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
 
+[Binary Predictors in Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Binary%20Predictors%20in%20logistic%20regression.ipynb)
+
+##### Linear Regression
+
 [Forecasting GPA with Linear Regression (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Forecasting%20GPA%20with%20sklearn%20Linear%20Regression.ipynb)
 
-[KMeans & The Elbow Method (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KMeans%20%26%20The%20Elbow%20Method.ipynb)
+[Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
+
+[Forecasting GPA with Linear Regression (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Forecasting%20GPA%20with%20sklearn%20Linear%20Regression.ipynb)
 
 [Forecasting GPA with Linear Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Linear%20Regression%20to%20forecast%20GPA%20of%20a%20student%20based%20on%20SAT%20scores%20(statsmodel).ipynb)
 
 [Linear Regression with Categorical Data (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
 
-[MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20using%20TF%202.0%20(Deep%20Learning).ipynb)
+##### KMeans
 
-[Market Segmentation with KMeans (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Market%20Segmentation%20Using%20KMeans.ipynb)
+[KMeans & The Elbow Method (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KMeans%20%26%20The%20Elbow%20Method.ipynb)
+
+##### Logistic Regression
+
+[Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
+
+#### Theory/Tests/Other
+
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+
+[Heatmaps (Seaborn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Clustermap%20(Hier%20Clus).ipynb)
 
 [Multiple Linear Regression R^2 vs Adjusted R^2 (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Multiple%20Linear%20Regression%2C%20Adjusted%20R%5E2%20versus%20R%5E2.ipynb)
 
 [Basic Nueral Network (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Neural%20Network%20in%20TensorFlow.ipynb)
-
-[Predicting Used Car Price with Linear Regression  (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Predict%20the%20price%20of%20a%20used%20car%20based%20on%20specifications%20(outliers%2C%20multicollinearity%2C%20dummy%20variables)%20LOG%20LINEAR%20REGRESSION%20.ipynb)
 
 [Simple KMeans Example (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Simple%20KMeans%20Example.ipynb)
 
