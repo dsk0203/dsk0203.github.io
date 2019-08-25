@@ -1,38 +1,28 @@
 # Coding Projects
 
 
-### Finance
+[Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
+
+[Binary Predictors in Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Binary%20Predictors%20in%20logistic%20regression.ipynb)
+
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+
+[Classifying Returning Customers With Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
+
+[Heatmaps (Seaborn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Clustermap%20(Hier%20Clus).ipynb)
+
+[Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
+
+[Forecasting GPA (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Forecasting%20GPA%20with%20sklearn%20Linear%20Regression.ipynb)
+
+[KMeans & The Elbow Method (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KMeans%20%26%20The%20Elbow%20Method.ipynb)
 
 
-[Financial Portfolio Tracking Application](/sample_page)
-<br><br><img src="images/project1e.jpg?raw=true"/>
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
 
-
-[Does Coke and Pepsi Stock-Price have Any Correlation?](/sample_page)
-<br><br><img src="images/Coke Pictures.jpg?raw=true"/>
-
-
-[DOG](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
-
-
-### Statistics
-
-
-[Warehouse Item Mapping based on User-Made Priority](/sample_page)
-<br><br><img src="images/project2e.jpg?raw=true"/>
-
-
-[Re-route a Parking Garage to Cut Down on Traffic in a Main Garage on Campus](/sample_page)
-<br><br><img src="images/project3e.jpg?raw=true"/>
-
-
-[Who's the greatest player of all time, MJ or LBJ?](/sample_page)
-<br><br><img src="images/basketball.png?raw=true"/>
-
-
-### Machine Learning
-
-
-
-[Using Machine Learning to detect Credit Card Fraud](http://example.com/)
-<br><br><img src="images/credit card fraud.jpg?raw=true"/>
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
