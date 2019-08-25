@@ -1,4 +1,6 @@
-# Key Projects
+# Dylan Kaplan Portfolio
+
+##### Key Projects
 [MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20using%20TF%202.0%20(Deep%20Learning).ipynb)
 
 [Predicting Used Car Price with Linear Regression  (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Predict%20the%20price%20of%20a%20used%20car%20based%20on%20specifications%20(outliers%2C%20multicollinearity%2C%20dummy%20variables)%20LOG%20LINEAR%20REGRESSION%20.ipynb)
@@ -7,7 +9,7 @@
 
 [Market Segmentation with KMeans (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Market%20Segmentation%20Using%20KMeans.ipynb)
 
-#### Data Cleaning/Preproccessing
+##### Data Cleaning/Preproccessing
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
 
@@ -33,7 +35,7 @@
 
 [Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
 
-#### Theory/Tests/Other
+##### Theory/Tests/Other
 
 [Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
 
