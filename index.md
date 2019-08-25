@@ -13,16 +13,24 @@
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
 
-[Forecasting GPA (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Forecasting%20GPA%20with%20sklearn%20Linear%20Regression.ipynb)
+[Forecasting GPA with Linear Regression (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Forecasting%20GPA%20with%20sklearn%20Linear%20Regression.ipynb)
 
 [KMeans & The Elbow Method (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KMeans%20%26%20The%20Elbow%20Method.ipynb)
 
+[Forecasting GPA with Linear Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Linear%20Regression%20to%20forecast%20GPA%20of%20a%20student%20based%20on%20SAT%20scores%20(statsmodel).ipynb)
 
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Linear Regression with Categorical Data (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
 
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
-[Building a NN from Scratch (Numpy)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20using%20TF%202.0%20(Deep%20Learning).ipynb)
+
+[Market Segmentation with KMeans (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Market%20Segmentation%20Using%20KMeans.ipynb)
+
+[Multiple Linear Regression R^2 vs Adjusted R^2 (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Multiple%20Linear%20Regression%2C%20Adjusted%20R%5E2%20versus%20R%5E2.ipynb)
+
+[Basic Nueral Network (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Neural%20Network%20in%20TensorFlow.ipynb)
+
+[Predicting Used Car Price with Linear Regression  (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Predict%20the%20price%20of%20a%20used%20car%20based%20on%20specifications%20(outliers%2C%20multicollinearity%2C%20dummy%20variables)%20LOG%20LINEAR%20REGRESSION%20.ipynb)
+
+[Simple KMeans Example (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Simple%20KMeans%20Example.ipynb)
+
+[Basics of Dodging Overfitting (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Utilizing%20Train%20Test%20Split%20%20(sklearn)%20(example%20variables%20a%26b).ipynb)
