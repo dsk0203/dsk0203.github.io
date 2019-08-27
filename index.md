@@ -25,7 +25,7 @@
 
 [Forecasting GPA with Linear Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Linear%20Regression%20to%20forecast%20GPA%20of%20a%20student%20based%20on%20SAT%20scores%20(statsmodel).ipynb)
 
-[Linear Regression with Categorical Data (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Building%20a%20Neural%20Network%20from%20scratch%20with%20numpy.ipynb)
+[Linear Regression with Categorical Data (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Linear%20Regression%20with%20Categorical%20Data.ipynb)
 
 ##### KMeans
 
