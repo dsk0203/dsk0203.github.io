@@ -1,8 +1,7 @@
 # Portfolio
 
 ##### Kaggle Competitions
-[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)]
-(https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KAGGLE%20-%20IEEE-CIS%20Fruad%20Detection.ipynb)
+[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KAGGLE%20-%20IEEE-CIS%20Fruad%20Detection.ipynb)
 
 ##### Key Projects
 [MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20using%20TF%202.0%20(Deep%20Learning).ipynb)
