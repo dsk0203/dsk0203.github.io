@@ -1,16 +1,18 @@
 # Portfolio
 
 ##### Kaggle Competitions
-[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/IEEE-CIS%20Fruad%20Detection%20(TensorFlow).html)
+[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)](https://www.dropbox.com/s/vadtsbcanavurkj/IEEE-CIS%20Fruad%20Detection%20%28TensorFlow%29.html?dl=0)
 
 ##### Key Projects
-[MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20Classification%20with%20Deep%20Learning%20(TensorFlow).html)
+[MNIST Classification with Deep Learning (TensorFlow)](https://www.dropbox.com/s/f654ejwp9w3zjb3/MNIST%20Classification%20with%20Deep%20Learning%20%28TensorFlow%29.html?dl=0)
 
 [Predicting Used Car Price with Linear Regression  (Sklearn)](https://www.dropbox.com/s/ln6lwd6qhx90sgq/Predicting%20Used-car%20Prices%20with%20Linear%20Regression%20%28Sklearn%29.html?dl=0)
 
 [Classifying Returning Customers With Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
 
-[Market Segmentation with KMeans (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Market%20Segmentation%20Using%20KMeans.ipynb)
+[Market Segmentation with KMeans (Sklearn)](https://www.dropbox.com/s/6tyi8d3gfkfeljx/Market%20Segmentation%20with%20KMeans.html?dl=0)
+
+[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Pandas)](https://www.dropbox.com/s/9kh5nfdaopsd1np/Holy%20Grail%20of%20Investing%20%28Ray%20Dalio%27s%20Diminishing%20Risk%20Theory%29.html?dl=0)
 
 ##### Data Cleaning/Preproccessing
 
