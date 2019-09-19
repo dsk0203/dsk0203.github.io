@@ -6,7 +6,7 @@
 ##### Key Projects
 [MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20Classification%20with%20Deep%20Learning%20(TensorFlow).html)
 
-[Predicting Used Car Price with Linear Regression  (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Predict%20the%20price%20of%20a%20used%20car%20based%20on%20specifications%20(outliers%2C%20multicollinearity%2C%20dummy%20variables)%20LOG%20LINEAR%20REGRESSION%20.ipynb)
+[Predicting Used Car Price with Linear Regression  (Sklearn)](https://www.dropbox.com/s/ln6lwd6qhx90sgq/Predicting%20Used-car%20Prices%20with%20Linear%20Regression%20%28Sklearn%29.html?dl=0)
 
 [Classifying Returning Customers With Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
 
