@@ -12,7 +12,7 @@
 
 [Market Segmentation with KMeans (Sklearn)](https://www.dropbox.com/s/6tyi8d3gfkfeljx/Market%20Segmentation%20with%20KMeans.html?dl=0)
 
-[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Pandas)](https://www.dropbox.com/s/9kh5nfdaopsd1np/Holy%20Grail%20of%20Investing%20%28Ray%20Dalio%27s%20Diminishing%20Risk%20Theory%29.html?dl=0)
+[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://www.dropbox.com/s/9kh5nfdaopsd1np/Holy%20Grail%20of%20Investing%20%28Ray%20Dalio%27s%20Diminishing%20Risk%20Theory%29.html?dl=0)
 
 ##### Data Cleaning/Preproccessing
 
