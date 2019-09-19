@@ -1,10 +1,10 @@
 # Portfolio
 
 ##### Kaggle Competitions
-[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/KAGGLE%20-%20IEEE-CIS%20Fruad%20Detection.ipynb)
+[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/IEEE-CIS%20Fruad%20Detection%20(TensorFlow).html)
 
 ##### Key Projects
-[MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20using%20TF%202.0%20(Deep%20Learning).ipynb)
+[MNIST Classification with Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/MNIST%20Classification%20with%20Deep%20Learning%20(TensorFlow).html)
 
 [Predicting Used Car Price with Linear Regression  (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Predict%20the%20price%20of%20a%20used%20car%20based%20on%20specifications%20(outliers%2C%20multicollinearity%2C%20dummy%20variables)%20LOG%20LINEAR%20REGRESSION%20.ipynb)
 
