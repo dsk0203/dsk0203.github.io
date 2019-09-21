@@ -1,7 +1,7 @@
 # Portfolio
 
 ##### Kaggle Competitions
-[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow)](https://www.dropbox.com/s/vadtsbcanavurkj/IEEE-CIS%20Fruad%20Detection%20%28TensorFlow%29.html?dl=0)
+[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow/SMOTE)](https://www.dropbox.com/s/vadtsbcanavurkj/IEEE-CIS%20Fruad%20Detection%20%28TensorFlow%29.html?dl=0)
 
 ##### Key Projects
 [MNIST Classification with Deep Learning (TensorFlow)](https://www.dropbox.com/s/f654ejwp9w3zjb3/MNIST%20Classification%20with%20Deep%20Learning%20%28TensorFlow%29.html?dl=0)
