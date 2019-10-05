@@ -1,24 +1,27 @@
 # Portfolio
 
+##### Data Science Projects
+
+[Predicting Used Car Price with Linear Regression  (Sklearn)](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
+
+[Market Segmentation with KMeans (Sklearn)](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
+
+[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
+
 ##### Kaggle Competitions
-[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow/SMOTE)](https://www.dropbox.com/s/vadtsbcanavurkj/IEEE-CIS%20Fruad%20Detection%20%28TensorFlow%29.html?dl=0)
-
-##### Key Projects
-[MNIST Classification with Deep Learning (TensorFlow)](https://www.dropbox.com/s/f654ejwp9w3zjb3/MNIST%20Classification%20with%20Deep%20Learning%20%28TensorFlow%29.html?dl=0)
-
-[Predicting Used Car Price with Linear Regression  (Sklearn)](https://www.dropbox.com/s/ln6lwd6qhx90sgq/Predicting%20Used-car%20Prices%20with%20Linear%20Regression%20%28Sklearn%29.html?dl=0)
-
-[Classifying Returning Customers With Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
-
-[Market Segmentation with KMeans (Sklearn)](https://www.dropbox.com/s/6tyi8d3gfkfeljx/Market%20Segmentation%20with%20KMeans.html?dl=0)
-
-[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://www.dropbox.com/s/9kh5nfdaopsd1np/Holy%20Grail%20of%20Investing%20%28Ray%20Dalio%27s%20Diminishing%20Risk%20Theory%29.html?dl=0)
+[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow/SMOTE)](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
 
 ##### Data Cleaning/Preproccessing
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
 
 [Binary Predictors in Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Binary%20Predictors%20in%20logistic%20regression.ipynb)
+
+##### Machine Learning
+
+[MNIST Classification with Deep Learning (TensorFlow)](https://jmp.sh/v/3Ju5KZ99X8lnlVLFwbUm)
+
+[Classifying Returning Customers With Deep Learning (TensorFlow)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
 
 ##### Linear Regression
 
