@@ -4,7 +4,7 @@
 
 [Predicting Used Car Price with Linear Regression  (Sklearn)](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
 
-[KAGGLE - IEEE-CIS Fruad Detection (TensorFlow/SMOTE)](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
+[IEEE-CIS Transaction Fruad Detection (TensorFlow/SMOTE)](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
 
 [Market Segmentation with KMeans (Sklearn)](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
