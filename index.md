@@ -9,7 +9,8 @@
 [Market Segmentation with KMeans (Sklearn)](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
 [Personal Mutual Fund (Pandas Datareader/Yahoo Finance)](https://jumpshare.com/v/sNirKWL8CkDvsWSDTkQT)
-[|| Example output](https://jumpshare.com/v/sNirKWL8CkDvsWSDTkQT)
+[| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
+[| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
 
 ### Other Projects
 
