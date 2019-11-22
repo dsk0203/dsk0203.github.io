@@ -1,17 +1,18 @@
 # Portfolio
 
-##### Data Science Projects
+### Projects from Resume
 
 [Predicting Used Car Price with Linear Regression  (Sklearn)](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
 
-[Market Segmentation with KMeans (Sklearn)](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
-
-[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
-
-##### Kaggle Competitions
 [KAGGLE - IEEE-CIS Fruad Detection (TensorFlow/SMOTE)](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
 
-##### Data Cleaning/Preproccessing
+[Market Segmentation with KMeans (Sklearn)](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
+
+[Personal Mutual Fund (Datareader/Yahoo Finance)](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
+
+### Other Projects
+
+[Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
 
