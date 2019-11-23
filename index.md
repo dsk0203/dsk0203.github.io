@@ -12,9 +12,9 @@
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
 
-### Other Projects
-
 [Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
+
+### Other Projects
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
 
