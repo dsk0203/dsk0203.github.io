@@ -26,7 +26,7 @@
 
 [Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
 
-### Current Project
+### Current Projects
 
 The effects of different field surfaces on NFL players injury
 
