@@ -1,5 +1,6 @@
 # Portfolio
 
+
 ### Projects from Resume
 
 [Predicting Used Car Price with Linear Regression  (Sklearn)](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
@@ -14,6 +15,7 @@
 
 [Holy Grail of Investing via Ray Dalios Diminishing Risk Theory (Glob/Sklearn)](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
 
+
 ### Other Projects
 
 [Feature Selection through Feature Scaling (Sklearn)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Feature%20Selection%20through%20Feature%20Scaling%20(Standardization)%20with%20sklearn.ipynb)
@@ -26,11 +28,13 @@
 
 [Basic Logistic Regression (Statsmodel)](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Basic%20Logistic%20Regression%20(statsmodel).ipynb)
 
+
 ### Current Projects
 
 The effects of different field surfaces on NFL players injury
 
 Forecasting medical appointment no-shows
+
 
 ### Current Learning Focus
 
