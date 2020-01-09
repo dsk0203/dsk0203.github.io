@@ -22,11 +22,4 @@
 
 [Holy Grail of Investing via Ray Dalios Diminishing Risk Theory](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
 
-[Classifying Returning Customers With Deep Learning](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
-
-### Current Projects
-
-The effects of different field surfaces on NFL players injury
-
-Forecasting medical appointment no-shows
 
