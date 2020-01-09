@@ -3,9 +3,9 @@
 
 ### Projects from Resume
 
-[Predicting Used Car Price with Linear Regression](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
-
 [IEEE-CIS Transaction Fruad Detection with Deep Learning](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
+
+[Animal Image Classifier with CNN](https://jmp.sh/v/5Ca0gz2Ium3IkHk5WWQZ)
 
 [Market Segmentation with KMeans](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
@@ -13,7 +13,7 @@
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
 
-[Animal Image Classifier with CNN](https://jmp.sh/v/5Ca0gz2Ium3IkHk5WWQZ)
+[Predicting Used Car Price with Linear Regression](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
 
 ### Other Projects
 
