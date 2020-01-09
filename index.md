@@ -16,7 +16,7 @@
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
 
-[Predicting Used Car Price with Linear Regression](https://jmp.sh/v/SUq5z1lVM6RfIcN6Xep4)
+[Classifying Returning Customers With Deep Learning](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
 
 ### Other Projects
 
