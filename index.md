@@ -13,7 +13,7 @@
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
 
-[Animal Image Classifier with CNN](https://jmp.sh/IWpEI4E)
+[Animal Image Classifier with CNN](https://jmp.sh/v/5Ca0gz2Ium3IkHk5WWQZ)
 
 ### Other Projects
 
