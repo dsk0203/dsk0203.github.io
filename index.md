@@ -7,6 +7,10 @@
 
 [Animal Image Classifier with CNN](https://jmp.sh/v/5Ca0gz2Ium3IkHk5WWQZ)
 
+[Chatbot with Bag-of-words Model](https://jmp.sh/v/C4Qt0jcGj52Ias9iRBUt)
+[| Example Execute File](https://jmp.sh/v/UnOxHGPgPe6ZlvgHVDl7)
+[| Example Chatbot image](https://jmp.sh/v/twz2npaugyQYydhraZe1)
+
 [Market Segmentation with KMeans](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
 [Personal Mutual Fund](https://jumpshare.com/v/sNirKWL8CkDvsWSDTkQT)
