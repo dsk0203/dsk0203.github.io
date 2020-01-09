@@ -10,11 +10,11 @@
 [Chatbot with Bag-of-words Model](https://jmp.sh/v/C4Qt0jcGj52Ias9iRBUt)
 [| Example Chatbot image](https://jmp.sh/v/twz2npaugyQYydhraZe1)
 
+[Audiobook Returning Customers](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
+
 [Quantitative Trading Strategy](https://jumpshare.com/v/sNirKWL8CkDvsWSDTkQT)
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
-
-[Classifying Returning Customers With Deep Learning](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
 
 [Market Segmentation with KMeans](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
