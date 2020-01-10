@@ -10,7 +10,7 @@
 [Chatbot with Bag-of-words Model](https://jmp.sh/v/C4Qt0jcGj52Ias9iRBUt)
 [| Example Chatbot image](https://jmp.sh/v/twz2npaugyQYydhraZe1)
 
-[Audiobook Returning Customers](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
+[Potential Loan Default Forecasting](https://jmp.sh/v/9ZI9dOEeBpbixIzUEzoG)
 
 [Quantitative Trading Strategy](https://jumpshare.com/v/sNirKWL8CkDvsWSDTkQT)
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
@@ -22,4 +22,4 @@
 
 [Holy Grail of Investing via Ray Dalios Diminishing Risk Theory](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
 
-
+[Audiobook Returning Customers](https://github.com/dsk0203/dsk0203.github.io/blob/master/images/Classifying%20a%20previous%20customer%20as%20a%20potential%20return%20customer%20with%20TensorFlow.ipynb)
