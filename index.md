@@ -3,6 +3,10 @@
 
 ### Projects from Resume
 
+[Read/Write to a NoSQL Database](https://jmp.sh/v/reeRfZgJ2y6XV493gNDm)
+[| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
+[| Example Output](https://jmp.sh/v/Eg7cke4F3vMMeaboX9FG)
+
 [IEEE-CIS Transaction Fruad Detection with Deep Learning](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
 
 [Animal Image Classifier with CNN](https://jmp.sh/v/5Ca0gz2Ium3IkHk5WWQZ)
@@ -16,9 +20,9 @@
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
 
-[Market Segmentation with KMeans](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
-
 ### Other Projects
+
+[Market Segmentation with KMeans](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
 [Holy Grail of Investing via Ray Dalios Diminishing Risk Theory](https://jmp.sh/v/HXk2rJmJzJhPKrvOJb3E)
 
