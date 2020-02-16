@@ -4,7 +4,7 @@
 ### Projects from Resume
 
 [Read/Write to a NoSQL Database](https://jmp.sh/v/reeRfZgJ2y6XV493gNDm)
-[| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
+[| Example Input](https://jmp.sh/v/B1QsWHpLIAggBcyipSjx)
 [| Example Output](https://jmp.sh/v/Eg7cke4F3vMMeaboX9FG)
 
 [IEEE-CIS Transaction Fruad Detection with Deep Learning](https://jmp.sh/v/7x12UuWkswim0lvshL7p)
