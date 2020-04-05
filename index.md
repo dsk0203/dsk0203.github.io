@@ -1,7 +1,7 @@
 # Portfolio
 
 
-### Projects from Resume
+### My Projects
 
 [Michael Jordan VS Lebron James Tableau Dashboard](https://public.tableau.com/views/LBJ_VS_MJ/MainDashboard?:display_count=y&:origin=viz_share_link)
 
@@ -21,8 +21,6 @@
 [Quantitative Trading Strategy](https://jumpshare.com/v/sNirKWL8CkDvsWSDTkQT)
 [| Example Input](https://jumpshare.com/v/UW3xJH8dwvOlJP0u8B05)
 [| Example Output](https://jumpshare.com/v/OSV8w7RTuiUZlnM9rhG0)
-
-### Other Projects
 
 [Market Segmentation with KMeans](https://jmp.sh/v/LeA9fflxc19NrluwGrlK)
 
